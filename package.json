@@ -1,0 +1,26 @@
+{
+    "name": "b3-funds-api",
+    "version": "0.0.1",
+    "description": "API para consulta de fundos",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.4",
+      "sequelize": "^5.8.6",
+      "cors": "^2.8.5"
+    },
+    "engines": {
+      "node": "12.x"
+    },
+    "repository": {
+      "url": "https://glitch.com/edit/#!/glitch-mvp-node"
+    },
+    "license": "MIT",
+    "keywords": [
+      "node",
+      "glitch",
+      "express"
+    ]
+  }
